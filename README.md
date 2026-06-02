@@ -163,7 +163,7 @@ This project is licensed under the MIT License.
 
 **Divyansh Shahi**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/techdivyansh22
 
 ---
 
